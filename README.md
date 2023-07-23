@@ -54,7 +54,7 @@
   </a>
   </div>
   <h2>
-    :hammer_and_wrench: Languages and Tools :
+    :left_speech_bubble: Languages:
   </h2>
   <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -65,10 +65,32 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain-wordmark.svg" title="jQuery" alt="jQuery" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="Matlab" alt="Mtl" width="40" height="40"/>&nbsp;
+  </div>
+  <h2>
+    :robot: Database Management Systems:
+  </h2>
+  <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  </div>
+  <h2>
+    :hammer_and_wrench: Tools:
+  </h2>
+  <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="docker" alt="docker" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" alt="TF" width="40" height="40"/>&nbsp;
+  <img src="https://user-images.githubusercontent.com/67054356/115028040-1a338380-9ecd-11eb-986e-c66bb000cdc6.png" title="gCollab" alt="gc"  width="40" height="40"/>&nbsp;
+  <img src="https://user-images.githubusercontent.com/67054356/115026296-ff600f80-9eca-11eb-8e8d-3f13cd6eca90.png" title="pytorch" alt="pyt" width="40" height="40"/>&nbsp;
+  <img src="https://user-images.githubusercontent.com/67054356/115026359-130b7600-9ecb-11eb-876a-bb66a68a1d11.png" title="Keras" alt="keras" width="40" height="40"/>&nbsp;
+  <img src="https://user-images.githubusercontent.com/67054356/115026566-51a13080-9ecb-11eb-848c-1767a735c491.png" title="OpenCv" alt="opcv" width="40" height="40"/>&nbsp;
+  <img src="https://user-images.githubusercontent.com/67054356/115026827-9e850700-9ecb-11eb-81ad-b8a9f8c05d47.png" title="Pandas" alt="pandas" width="40" height="40"/>&nbsp;
+  <img src="https://user-images.githubusercontent.com/67054356/115026923-b8264e80-9ecb-11eb-8ee7-909dd4110ca0.png" title="Numpy" alt="Numpy" width="40" height="40"/>&nbsp;
+  <img src="https://user-images.githubusercontent.com/67054356/115027233-1f440300-9ecc-11eb-84e3-a72a9fc907db.png" title="Sci-py" alt="scipy" width="40" height="40"/>&nbsp;
+  <img src="https://user-images.githubusercontent.com/67054356/115027423-5ca89080-9ecc-11eb-90e5-b183abf9420f.png" title="Sci-kit learn" alt="sklearn" width="40" height="40"/>&nbsp;
+  <img src="https://user-images.githubusercontent.com/67054356/115027614-98dbf100-9ecc-11eb-9446-d24fe878417a.png" title="Matplotlib" alt="mtplt" width="40" height="40"/>&nbsp;
+  <img src="https://user-images.githubusercontent.com/67054356/115027697-b4df9280-9ecc-11eb-8081-209b0c4ac390.png" title="Seaborn" alt="sns" width="40" height="40"/>&nbsp;
+  <img src="https://user-images.githubusercontent.com/67054356/115027795-cde84380-9ecc-11eb-8b0c-c09574c30381.png" title="NeuralLangKit" alt="NTLK" width="40" height="40"/>&nbsp;
+  <img src="https://user-images.githubusercontent.com/67054356/115031856-4fda6b80-9ed1-11eb-854a-07b9741f7df2.png" title="flask" alt="Flask" width="40" height="40"/>&nbsp;
   </div>
 
