@@ -1,4 +1,3 @@
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/axnFGXT6MzvgY/giphy.gif" width="350"/>
 </div>
@@ -23,19 +22,38 @@
  <img src="https://komarev.com/ghpvc/?username=wrenchwastaken&style=for-the-flat-square&color=orange" alt=""/>
 </div>
 <div id="headers" align="center">
+</div>
+<div align="center">
 <h1>
   Connection is Power
   <img src="https://media.giphy.com/media/pkfWxD1OWjwhnpF2Rb/giphy.gif" width="50px"/>
 </h1>
 </div>
+<h2>
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+</h2>
+:man_technologist: About Me :
+<div>
+ Learning to be a Full Stack Developer and a Machine Learning Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+  </div>
+  <div>
+    -:telescope: Currently I am pursuing my Undergraduate Degree in Mechanical Engineering in Manipal Institute Of Technology, Karnataka.
+  </div>
+  <div>
+    -:seedling: Exploring the world of Deep Learning-->Neural Networks and Natural Language Processing.
+  </div>
+  <div>
+    -:mage: In my free time, i usually play Video Games, watch Anime and even play Football.
+  </div>
+  <div>
+    -:mailbox:How to reach me:
+    <a href="https://www.linkedin.com/in/soyam-das-7ab6841b8/">
+    <img src="https://img.shields.io/badge/LinkedIn-darkblue?style=badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  </div>
+  <h2>
+    :hammer_and_wrench: Languages and Tools :
+  </h2>
 
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
