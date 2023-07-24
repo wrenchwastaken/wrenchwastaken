@@ -58,13 +58,13 @@
   </h2>
   <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://user-images.githubusercontent.com/67054356/115026129-caec5380-9eca-11eb-86cd-faef1218fd80.png" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="cpp" alt="CPP" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://user-images.githubusercontent.com/67054356/131631974-ac93d19c-6822-4839-b171-035cbd3bac90.png" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://user-images.githubusercontent.com/67054356/131631712-a329b0dc-7ad2-4c7f-a8f8-55e92e7261df.png"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain-wordmark.svg" title="jQuery" alt="jQuery" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="Matlab" alt="Mtl" width="40" height="40"/>&nbsp;
+  <img src="https://user-images.githubusercontent.com/67054356/115029106-50bdce00-9ece-11eb-8daa-b2d6079755f1.png" title="Matlab" alt="Mtl" width="40" height="40"/>&nbsp;
   </div>
   <h2>
     :robot: Database Management Systems:
