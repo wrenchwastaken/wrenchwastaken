@@ -93,4 +93,16 @@
   <img src="https://user-images.githubusercontent.com/67054356/115027795-cde84380-9ecc-11eb-8b0c-c09574c30381.png" title="NeuralLangKit" alt="NTLK" width="40" height="40"/>&nbsp;
   <img src="https://user-images.githubusercontent.com/67054356/115031856-4fda6b80-9ed1-11eb-854a-07b9741f7df2.png" title="flask" alt="Flask" width="40" height="40"/>&nbsp;
   </div>
+  <div align="center">
 
+<a href="https://github.com/wrenchwastaken"><img height="170px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=wrenchwastaken&theme=tokyonight"/>
+<img height="170px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=wrenchwastaken&langs_count=8&theme=tokyonight"/></a>
+
+</div>
+
+
+<div align="center">
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=wrenchwastaken&theme=tokyonight)](https://git.io/streak-stats)
+
+</div>
