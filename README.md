@@ -42,7 +42,7 @@
     -:telescope: Currently I am pursuing my Undergraduate Degree in Mechanical Engineering in Manipal Institute Of Technology, Karnataka.
   </div>
   <div>
-    -:seedling: Exploring the world of Deep Learning-->Neural Networks and Natural Language Processing.
+    -:seedling: Exploring Deep Learning, Natural Language Processing and Generative Adversial Networks.
   </div>
   <div>
     -:mage: In my free time, i usually play Video Games, watch Anime and even play Football.
